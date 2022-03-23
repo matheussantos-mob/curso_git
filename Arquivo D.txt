@@ -1,1 +1,1 @@
-{ Arquivo de teste comando pull}
+git { Arquivo de teste comando pull}
